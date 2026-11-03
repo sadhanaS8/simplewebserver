@@ -115,9 +115,11 @@ httpd.serve_forever()
 
 ## OUTPUT:
 webpage
-![alt text](image.png)
+<img width="1617" height="807" alt="image" src="https://github.com/user-attachments/assets/50797c66-16cd-4574-ad2f-2a1f49fd32a4" />
+
 serverpage 
-![alt text](image-1.png)
+<img width="1612" height="847" alt="image" src="https://github.com/user-attachments/assets/8a5849b9-0ed9-473e-a523-1d36c82f8bc4" />
+
 
 
 ## RESULT:
